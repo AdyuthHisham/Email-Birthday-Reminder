@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "email-gsheet-reminder",
+  "private_key_id": "bb1bf4ee109e63151ef16f869234d38fbd495591",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCx5JTwfzgo3Lpf\nNWhHDGS9UOplJek9PCAVzrirJl6Yrq+KLYwLdtwPlLyvkdnL6Pn8R0+C5vODxi5a\nzLxhiaetJBDJUC5IhQcRvQobXk7FTjm7/X8zQdtEynKu4hfeifG7XjrY4PW4Nhu5\nJWVs4rARdJNSl82H5UJR0O7j2IoyRwGYccUbUt5NicgSuwPTLlbLZV3OnVscWh2S\nScuhgm2B682OmJciSlzK/QaoGEf3amo8CKO+6UavduFGeqImNEfmoE/Esd1uZyNB\nlCc5Q8XTw0t0OSK5adTiFgXzBANHnpsnA7Tnc5eyu73NbrOkYlWUpPbWjvc5wsmA\naEA7fiK3AgMBAAECggEAEsaCZcO3pLBvRz82y1DmjQiuRJC0xk7DQCn6Wa4KC+lc\nA6R9BHS+EzLqm0k0iI4FXHgWT0Wa7AyNte2n8E98EA0fbG/3ApZvwZKHL45LmA2C\nkHHX7AwGXYNUiVq5lDZQ+iqe4WcU6CVl1au5wb1HQgBg0DXPbolm74WywP+Iznd8\nhb7hrLQ5zOO3xF6TXN8Cdoakneef2XgWaSz7+U03XXyWnVI4/XJphYxZGLMOQboo\nFLu3ma2mZtUMWmTjzvHWoCcnE9v8D8LF2KpW33LgjxPD/1DBcUu6DhI3rIlxtH/m\n1pkRYrIPZeNHrzVVMa7qm512qhb2i+c9o6lCQ5uzKQKBgQD4V0H6vaVhjiHmo+x8\njmZzH8qA3pPlA6tEb78rVQFrfeEnuUKTIJYkm4Or6LFXcZyY9aOScb5W3IYlQ7Km\nI5dR9eEwcnRK3sRZU7OSo14qnjHQTfURx8QPsv+HxxrTU5AbR5IGeyirsWX3lIXs\nNcvx1EmULV2dNGIScTDF9BbulQKBgQC3YRyRDWf2nkMt2xYKyV/zv/5g2+T6cRDb\nFjPU4T28TKhOyd5siS8FTDxf7WZ1xIVlPwAN4cEyDfSAqsMEfd7RX+WHzQBSzUOc\n6JPzAa4XMgDXmR4tN8aV2vQVLrgjx2/S8T/duxuoBO/dJo0zY+ymWaad7k4C1GvM\nTpUBXw3VGwKBgQD2dxMiWKkTws3eav2/OExxITIG5997wEJvrz/ZL4ozNkEI/ZIX\nFpYsSrNJH60xja3PGKp4Iq624jG4NhHNVTFOxGnzfQPxclkIFkv30m8YeNwTUetQ\n9COfORTlmjMDXMF+cW95Qy3ACFWceyjWnyWDIh7MEqH/7QcQKoovS+qeaQKBgGlA\nLLQ4XJZY6bf1CiawxAjUBn2zWC5CHOmSSbeCe/uKiAOIq8fhyQIianioemlXnTSq\nPy64hzlidxYubHY0hGHpx4T1LZ1YwNjbSKduLGyVv5P/Bynu3GUAYZ2Szg+DFXSe\nEQkDrnD2PHHTAbIgRSCJTi9RKqdHIoQGClHaK8dHAoGBAKB9izn8S9WfyZDfDP9B\n3BdfO0EOiB9m+tqGx/tHcZcRnTeGpzpyTueUR7QtbitLCObm4vuYw+l/iLCGmeX/\nkziDkqGai+oNrP9Iud8mFcJ+fHJfLekCLWzmj1UzZZEq83geGDtBz5AaHSUPx7jP\n4kxYTJVOFrcMndB8jqOvtOAa\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-sheet-for-email-reminder@email-gsheet-reminder.iam.gserviceaccount.com",
+  "client_id": "113597637351159279900",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-sheet-for-email-reminder%40email-gsheet-reminder.iam.gserviceaccount.com"
+}
